@@ -64,3 +64,7 @@ yarn-error.log
 
 # testing
 /coverage
+
+images
+lib
+bin
